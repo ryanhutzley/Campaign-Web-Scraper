@@ -4,11 +4,11 @@ items_class: quote
 data_selectors:
   - text
   - author
-  - keywords
+  - tags
 data_column_titles:
   - Text
   - Author
-  - Keywords
+  - Tags
 pagination:
   crawl_pages: 5
   delay: 5000
